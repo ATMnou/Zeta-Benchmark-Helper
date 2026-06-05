@@ -18,21 +18,26 @@ https://huggingface.co/datasets/li-lab/MMLU-ProX-Lite/tree/main
 
 ## 총 점수:
 
-85/658 (12.9%)
+<b>85/658 (12.9%)</b>
 
 ## 카테고리별 점수
 
-Biolog : 5/41 (12%)
-Business: 8/45 (17%)
-Chemistry: 5/61 (8%)
-Computer Science: 4/25 (16%)
-Economics: 9/47 (19%)
-Engineering: 5/53 (9%)
-Health: 2/40 (5%)
-History: 2/24 (8%)
-Law: 6/53 (11%)
-Math: 9/73 (12%)
-Other: 8/51 (15%)
-Philosophy: 5/30 (16%)
-Physics: 7/70 (10%)
-Psychology: 10/45 (22%)
+- Biology : 5/41 (12%)
+- Business: 8/45 (17%)
+- Chemistry: 5/61 (8%)
+- Computer Science: 4/25 (16%)
+- Economics: 9/47 (19%)
+- Engineering: 5/53 (9%)
+- Health: 2/40 (5%)
+- History: 2/24 (8%)
+- Law: 6/53 (11%)
+- Math: 9/73 (12%)
+- Other: 8/51 (15%)
+- Philosophy: 5/30 (16%)
+- Physics: 7/70 (10%)
+- Psychology: 10/45 (22%)
+
+## 비교군
+
+- Qwen 3.5 0.8B: 34.6%
+- Gemma 3n E4B IT: 19.9%
