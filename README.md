@@ -37,7 +37,15 @@ https://huggingface.co/datasets/li-lab/MMLU-ProX-Lite/tree/main
 - Physics: 7/70 (10%)
 - Psychology: 10/45 (22%)
 
+<img src="./그래프.png">
+
+그래프 작성: Claude
+
 ## 비교군
 
 - Qwen 3.5 0.8B: 34.6%
 - Gemma 3n E4B IT: 19.9%
+
+## 코멘트
+
+- 벤치마크 도중 할루시네이션으로 인한 RP 진행이나 문제 되돌려주기가 극심했습니다.
