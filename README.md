@@ -54,6 +54,7 @@ https://huggingface.co/datasets/li-lab/MMLU-ProX-Lite/tree/main
 # FAQ
 
 Q. 나중에 RP-Bench 등 롤플레이 관련 벤치마크도 진행할 계획이 있나요?
+
 A. **있습니다.**
 
 ## Koji / Luca
