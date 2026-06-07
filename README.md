@@ -46,6 +46,16 @@ https://huggingface.co/datasets/li-lab/MMLU-ProX-Lite/tree/main
 - Qwen 3.5 0.8B: 34.6%
 - Gemma 3n E4B IT: 19.9%
 
+## 결론
+
+- Zeta (Spotwrite) 모델의 MMLU-ProX 점수는 4B 모델보다 낮으나, 이는 Zeta가 범용 챗봇이 아닌 캐릭터 페르소나 플랫폼이고 Zeta (Spotwrite)는 그에 맞게 최적화된 모델이기 때문입니다. 루머에 따르면 체급은 30B 정도로 추정되고 있습니다.
+- 본 벤치마크는 MMLU-ProX에서 평가하는 항목에서 낮은 점수를 보였을 뿐, 스캐터랩은 Zeta (Spotwrite)의 할루시네이션 현상까지 의도적으로 유지하여, 수학적 성능보다는 롤플레잉과 감성 대화에 최적화된 모델을 지향하고 있습니다.
+
+# FAQ
+
+Q. 나중에 RP-Bench 등 롤플레이 관련 벤치마크도 진행할 계획이 있나요?
+A. **있습니다.**
+
 ## Koji / Luca
 
 제타에서 제공하는 기본 모델인 Zeta 외에 Koji와 Luca 모델은 별도로 벤치마크를 진행하지 않았습니다. 아래는 Koji와 Luca 모델에 대한 후보군입니다:
